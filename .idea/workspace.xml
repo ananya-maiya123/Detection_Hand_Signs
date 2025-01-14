@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="363606d5-d3c4-4e25-ac1e-0f9768220337" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Detection_Hand_Signs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Detection_Hand_Signs.iml" afterDir="false" />
+    <list default="true" id="363606d5-d3c4-4e25-ac1e-0f9768220337" name="Changes" comment="Initial change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +47,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.detect.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ananya/PycharmProjects/Detection_Hand_Signs/data",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ananya\PycharmProjects\Detection_Hand_Signs\data" />
+      <recent name="C:\Users\Ananya\PycharmProjects\Detection_Hand_Signs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736799174581</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial change">
+      <option name="closed" value="true" />
+      <created>1736802166288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736802166288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial change" />
   </component>
 </project>
