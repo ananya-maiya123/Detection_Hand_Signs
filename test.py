@@ -14,7 +14,7 @@ if not cap.isOpened():
     exit()
 
 detector = HandDetector(maxHands=1)
-classifier = Classifier("Model/keras_model.h5", "Model/labels.txt")
+classifier = Classifier("Model2/keras_model.h5", "Model2/labels.txt")
 
 offset = 20
 imgSize = 300
